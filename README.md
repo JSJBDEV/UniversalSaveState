@@ -16,6 +16,6 @@
 													 
 Use latest python (3.6 atm)
 
-python StateSaver.python
+	python StateSaver.python
 
 Make sure it has permission to write into the folder and subfolders
